@@ -1,0 +1,6 @@
+{
+  "name": "Cipheryon",
+  "description": "Cipheryon - High-speed programmer's cipher and encryption utility featuring CSRPNG perma-lock Encryptor, base encodings, and cryptographic shredders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

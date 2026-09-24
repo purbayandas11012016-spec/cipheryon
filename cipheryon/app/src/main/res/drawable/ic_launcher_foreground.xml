@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer hexagon node ring elements -->
+    <path
+        android:pathData="M32,40 L42,32 L66,32 L76,40"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M76,68 L66,76 L42,76 L32,68"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round" />
+
+    <!-- Futuristic 'C' for Cipheryon -->
+    <path
+        android:pathData="M68,43 C63,37 54,36 47,41 C39,47 39,61 47,67 C54,72 63,71 68,65"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="6"
+        android:strokeLineCap="round" />
+
+    <!-- Inner cryptographic core / keyhole node -->
+    <path
+        android:pathData="M54,49 C51.8,49 50,50.8 50,53 C50,54.5 50.8,55.8 52,56.5 L51,61 H57 L56,56.5 C57.2,55.8 58,54.5 58,53 C58,50.8 56.2,49 54,49 Z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Terminal binary dots -->
+    <path
+        android:pathData="M72,50 A2,2 0 1,1 72,50.01"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="3"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M72,58 A2,2 0 1,1 72,58.01"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="3"
+        android:strokeLineCap="round" />
+</vector>
